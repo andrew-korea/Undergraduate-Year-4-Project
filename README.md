@@ -6,4 +6,4 @@ The compiler has an auto-tuning feature, meaning that it is able to optimize mac
 My project focuses on enlarging the configuration space for the auto-tuner, allowing the compiler to explore more comprehensive settings for the GPU.
 Reference: https://github.com/apache/tvm/blob/main/python/tvm/topi/cuda/conv2d_direct.py
 
-The project was done on the CSE department's Linux server at CUHK, which hasn't been available since graduation.
+To view the PDF files, you must download the RAW files or clone this repo into your local repo.
